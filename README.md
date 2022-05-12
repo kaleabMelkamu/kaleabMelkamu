@@ -10,3 +10,4 @@
 - ⚡ Fun fact: ...
 
 ![kaleab's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleabMelkamu&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabMelkamu&layout=compact)](https://github.com/kaleabMelkamu/github-readme-stats)
