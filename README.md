@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on Backend development 
 - 🌱 I’m currently learning web3
 - 👯 I’m looking to collaborate on web3 community and with people that want to make a change in this world 
-- 🤔 I’m looking for help with ...
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: kaleabm18@gmail.com
 - ⚡ Fun fact: Coding is my life 😄
