@@ -62,6 +62,11 @@
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Kaleab&layout=compact' alt='' align='left' />
 </div>
 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaleabmelkamu&theme=tokyonight)](https://git.io/streak-stats)
+<br>
+<br>
+
+
 [linkedin]: https://www.linkedin.com/in/kaleabmelkamu-a30aa5175/
 [github]:  https://github.com/kaleabmelkamu
 [twitter]:https://twitter.com/dev_kaleab
