@@ -50,7 +50,7 @@
 
 <br/>
 <br/>
-<a href="https://github-readme-stats.vercel.app/api?username=kaleabMelkamu&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleabMelkamu&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Kaleab's stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabMelkamu&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabMelkamu&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> 
+<a href="https://github-readme-stats.vercel.app/api?username=kaleabMelkamu&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleabMelkamu&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Kaleab's stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabMelkamu&layout=compact&langs_count=9&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabMelkamu&layout=compact&langs_count=9&theme=react&hide_border=true" /></a> 
 
 <!--
 ![kaleab's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleabMelkamu&count_private=true&show_icons=true&theme=radical)
