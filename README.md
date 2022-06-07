@@ -36,7 +36,7 @@
 [<img align="left" alt="Material UI" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-plain.svg"/>][github]
 [<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
 [<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg"/>][github]
-     
+ [<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg"/>][github]    
 <br/>
 <br/>
 <br/>
