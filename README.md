@@ -1,13 +1,19 @@
+### Hi there 👋, I'm Kaleab
+
+I'm a passionate software engineer focused on **backend development** and exploring the world of **web3**.  
+I love building impactful products, collaborating with global communities, and believe that code can change the world.
 
 
-### Hi there am Kaleab 👋
+---
 
-- 🔭 I’m currently working on Backend development 
-- 🌱 I’m currently learning web3 with Buildspace and Alchemy university
-- 👯 I’m looking to collaborate on web3 community and with people that want to make a change in this world 
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: kaleabm18@gmail.com
-- ⚡ Fun fact: Coding is my life 😄
+- 🔭 Currently working on backend systems and web3 projects.
+- 🌱 Learning blockchain/web3 with Buildspace & Alchemy University.
+- 🤝 Open to collaborating on web3, open-source, and meaningful tech projects.
+- 🥅 Goal: Contribute more to open source and web3 communities.
+- 📫 Reach me: kaleabm18@gmail.com
+- ⚡ Fun fact: Coding is my superpower! 😄
+
+---
 
 ### Languages and Tools:
 
