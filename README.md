@@ -10,7 +10,7 @@ I love building impactful products, collaborating with global communities, and b
 - 🌱 Learning blockchain/web3 with Buildspace & Alchemy University.
 - 🤝 Open to collaborating on web3, open-source, and meaningful tech projects.
 - 🥅 Goal: Contribute more to open source and web3 communities.
-- 📫 Reach me: kaleabm18@gmail.com
+- 📫 Reach me: kaleabm22@gmail.com
 - ⚡ Fun fact: Coding is my superpower! 😄
 
 ---
